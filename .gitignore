@@ -10,6 +10,9 @@ node_modules/
 # ── 运行配置 ──
 *.ini
 
+# ── 独立子仓库（各自独立 git，不在本容器仓库里跟踪） ──
+DesktopClock/
+
 # ── IDE / 系统杂项 ──
 .vs/
 .vscode/
@@ -17,3 +20,4 @@ node_modules/
 *.suo
 .DS_Store
 Thumbs.db
+*.lnk
