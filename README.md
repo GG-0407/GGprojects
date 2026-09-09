@@ -6,4 +6,4 @@
 
 | 项目 | 说明 |
 |---|---|
-| 🕐 [桌面时钟 DesktopClock](https://github.com/gouguoliang/DesktopClock) | 简洁大气的桌面时钟挂件（公历/农历/天气/节日），已独立开源，支持下载 |
+| 🕐 [桌面时钟 DesktopClock](https://github.com/GG-0407/DesktopClock) | 简洁大气的桌面时钟挂件（公历/农历/天气/节日），已独立开源，支持下载 |
